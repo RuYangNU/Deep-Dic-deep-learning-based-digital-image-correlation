@@ -18,7 +18,9 @@ Deep-DIC is implemented in [PyTorch](https://pytorch.org/) and tested with Ubunt
 ## Overview
 We provide:
 - Datasets: training dataset, validation dataset and test dataset.
-- Pre-trained models:https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6?usp=sharing
+      https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6?usp=sharing
+- Pre-trained models:
+      https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6?usp=sharing
     - DisplacementNet
     - StrainNet
 - Code to test with pair of speckle images.
