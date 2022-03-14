@@ -1,0 +1,11 @@
+jupyter==1.0.0
+numpy==1.17.4
+Pillow==8.4.0
+scikit-image==0.18.3
+scikit-learn==1.0.1
+scikit-neuralnetwork==0.7
+scipy==1.6.3
+sklearn==0.0
+torch==1.8.1+cpu
+torchvision==0.9.1+cpu
+tqdm==4.60.0
