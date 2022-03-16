@@ -6,7 +6,7 @@ Digital image correlation (DIC) has become an industry standard to retrieve accu
 Please refer to our paper: https://www.sciencedirect.com/science/article/pii/S092401362100434
 
 ## Citation
-If you find this code or the provided data useful in your research, please consider cite:(<-- two spaces)
+If you find this code or the provided data useful in your research, please consider cite:<br/>
 @article{yang2022deep,
 title={Deep DIC: Deep learning-based digital image correlation for end-to-end displacement and strain measurement},
 author={Yang, Ru and Li, Yang and Zeng, Danielle and Guo, Ping},
